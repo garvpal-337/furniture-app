@@ -1,1 +1,4 @@
-HELLO
+<div style="background-color: #3498db; color: white; text-align: center; padding: 20px;">
+  <h1>Furniture App</h1>
+  <p>Welcome to the Furniture App, designed for a assignment while i was learning flutter</p>
+</div>
